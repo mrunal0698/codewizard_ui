@@ -1,0 +1,32 @@
+{
+  "@odata.context": "$metadata#Databases",
+  "value": [
+      {
+          "DbFeatures": [
+              "Foreign key referential integrity",
+              "Sophisticated locking mechanismn",
+              "Table inheritance",
+              "User-defined types"
+          ],
+          "Dbname": "PostgreSQL",
+          "DbId": 2,
+          "Icon": "images/img_location_black_900_90x90.svg",
+          "Dbversion": "14.6",
+          "Description": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance."
+      },
+      {
+        "Date": "2024-06-20T09:00:00Z",
+        "DbFeatures": [
+            "Opensource - Managed by Oracle",
+            "Partitioning",
+            "Scalability support for large database sizes",
+            "build-in security, High Performant, Memory efficient"
+        ],
+        "Dbname": "MySQL",
+        "DbId": 7,
+        "Icon": "images/img_reply.svg",
+        "Description": "MySQL is a free and open-source relational database management system emphasizing extensibility and SQL compliance.",
+        "Dbversion": "8.0.31"
+    }
+  ]
+}

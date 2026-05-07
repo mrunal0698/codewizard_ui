@@ -1,0 +1,663 @@
+{
+    "value": [
+
+        {
+            "@odata.context": "$metadata#cwBackend132.UITemplate(Supported_Capabilities(),MainTechnology(),AllScreens())",
+            "RepoURL": "$user_home/react_templates_ruby",
+            "Date": null,
+            "UITemplateSupported_BETechnology": 2,
+            "UITemplateMainTechnology": 1,
+            "UITemplateRefApp": null,
+            "RepoName": "templates_react_ruby",
+            "DevelopedBy": "Replicacia Technologies",
+            "BranchName": null,
+            "TemplateId": 2,
+            "UITemplateTheme": null,
+            "UITemplateIcon": null,
+            "TemplateName": "Ruby",
+            "Attribute4": null,
+            "WebsiteReference": "http://34.238.241.129:3000/products",
+            "UITemplateGenerator": 3,
+            "TemplateDescription": "React Ruby Template",
+            "Attribute1": "http://op.code-wizard.in:9055/",
+            "Attribute3": null,
+            "Attribute2": null,
+            "IconUITemp": "images/template/ProductsTable.svg",
+            "Supported_Capabilities": [
+                {
+                    "CapFeatures": [
+                        "Have multiple isolated environments on a single host",
+                        "Preserves volume data when containers are created"
+                    ],
+                    "Name": "Docker Compose",
+                    "Icon": "images/img_lightbulb.svg",
+                    "Attribute1": "true",
+                    "Description": "Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 6
+                },
+                {
+                    "CapFeatures": [
+                        "Application isolation.",
+                        "Faster and easier configuration."
+                    ],
+                    "Name": "Dockerfile",
+                    "Icon": "images/img_group_bluegray_801.svg",
+                    "Attribute1": "true",
+                    "Description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containersDocker is a set of platform as a service products that use OS-level virtualization",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 7
+                },
+                {
+                    "CapFeatures": [
+                        "Form-based authentication.",
+                        "HTTP BASIC authentication headers.",
+                        "LDAP (Lighweight Directory Access Protocol)"
+                    ],
+                    "Name": "Authentication & Authorization [Spring]",
+                    "Icon": "images/img_close_light_green_700.svg",
+                    "Attribute1": "true",
+                    "Description": "Authentication is the process of identifying a user to provide access to a system. Authorization is the process of giving permission to access the resources",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 3
+                },
+                {
+                    "CapFeatures": [
+                        "Transmits user names and passwords across the network in an unencrypted form",
+                        "help secure user account information transmitted across the Internet or a corporate"
+                    ],
+                    "Name": "Authentication & Authorization [Basic]",
+                    "Icon": "images/img_settings_gray_50.svg",
+                    "Attribute1": null,
+                    "Description": "Basic Authentication is a method for an HTTP user agent (e.g., a web browser) to provide a username and password when making a request",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 5
+                },
+                {
+                    "CapFeatures": [
+                        "Authentication API",
+                        "SSO",
+                        "Universal Login"
+                    ],
+                    "Name": "Authentication & Authorization [Auth0]",
+                    "Icon": "images/img_close_deep_orange_600.svg",
+                    "Attribute1": null,
+                    "Description": "Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 4
+                },
+                {
+                    "CapFeatures": [
+                        "Redis Cluster",
+                        "Redis Sentinal",
+                        "Redis cache sessions",
+                        "Redis data typesRedis data types"
+                    ],
+                    "Name": "Redis",
+                    "Icon": "images/img_location_red_903.svg",
+                    "Attribute1": null,
+                    "Description": "Redis is an open-source in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 8
+                },
+                {
+                    "CapFeatures": [
+                        "Built-in security. ...",
+                        "Cloud-native architecture. Enables the elasticity to grow or shrink as needed.",
+                        "Native client libraries. ...",
+                        "Native memory storage. ..."
+                    ],
+                    "Name": "Hazelcast",
+                    "Icon": "images/img_settings_cyan_a400.svg",
+                    "Attribute1": null,
+                    "Description": "The RAM of all cluster members is combined into a single in-memory data store to provide fast access to data.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 9
+                },
+                {
+                    "CapFeatures": [
+                        "Authorization Code.",
+                        "Implicit Grant."
+                    ],
+                    "Name": "Authentication & Authorization [OAuth]",
+                    "Icon": "images/img_location_black_900.svg",
+                    "Attribute1": null,
+                    "Description": "The resource owner authenticates and authorizes the resource access request from the application, and the authorize endpoint returns an authorization grant to the client",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 2
+                },
+                {
+                    "CapFeatures": [
+                        "Preventing unauthorized access to infrastructure",
+                        "Storing user details and credentials.",
+                        "User Groups"
+                    ],
+                    "Name": "User Management",
+                    "Icon": "images/img_group52988.svg",
+                    "Attribute1": null,
+                    "Description": "User management is a system to handle activities related to individuals' access to devices, software, and services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 1
+                },
+                {
+                    "CapFeatures": [
+                        "Credit Card",
+                        "Debit Card",
+                        "Internet Banking",
+                        "UPI"
+                    ],
+                    "Name": "Razorpay",
+                    "Icon": "images/img_cursor.svg",
+                    "Attribute1": null,
+                    "Description": "Widely used payment Gateway Solution",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 10
+                }
+            ],
+            "AllScreens": [
+                {
+                    "ScreenLayout": "Form",
+                    "Date": null,
+                    "TeScreenId": 4,
+                    "ScreenDescription": "Create details using a customizable form, allowing for easy management of information through various input types.",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_details/...",
+                    "ScreenName": "product_details",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/detailForm.png",
+                    "ScreenURL": "/product_detail",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": "Add unlimited input fields sourced from the selected API endpoints. Supports input types like text fields, radio buttons, and dropdowns,making it suitable for any form setup."
+                },
+                {
+                    "ScreenLayout": "Information Form",
+                    "Date": null,
+                    "TeScreenId": 7,
+                    "ScreenDescription": "Create a vertical, document-style display of form fields from various sources.",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_information_form/product_information_form.js",
+                    "ScreenName": "product_information_form",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/InfoForm.png",
+                    "ScreenURL": "/infoform",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": "Combine multiple components or data fields by selecting APIs, allowing you to create comprehensive info display."
+                },
+                {
+                    "ScreenLayout": "List",
+                    "Date": null,
+                    "TeScreenId": 5,
+                    "ScreenDescription": "Display items in a structured list format with image, title, description, and other details.",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_list/product_list.js",
+                    "ScreenName": "product_list",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductListview.png",
+                    "ScreenURL": "/products/list",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": "Add and customize fields such as image, title, description, and status for each item.\n Display data in a card-style list view that keeps key details accessible and organized.\n Option to include additional fields for flexible item information.\n User-friendly layout for easily browsing and managing multiple items in a single view."
+                },
+                {
+                    "ScreenLayout": "Table",
+                    "Date": null,
+                    "TeScreenId": 3,
+                    "ScreenDescription": "Manage data in a tabular format.",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_table/product_index.js",
+                    "ScreenName": "product_table",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductTable.png",
+                    "ScreenURL": "/products",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": "Add, edit, or delete columns and rows sourced from the selected API.\nView full row details on a dedicated view page.\nEdit data on a separate edit page to ensure easy updates and data accuracy.\n Note: If the Table Screen is selected, you must also select a Form Page to create new row detail."
+                },
+                {
+                    "ScreenLayout": "Tiles",
+                    "Date": null,
+                    "TeScreenId": 6,
+                    "ScreenDescription": "Showcase data with visually engaging tiles.",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_tiles/product_tiles.js",
+                    "ScreenName": "product_tiles",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductTilesView.png",
+                    "ScreenURL": "/products/tiles",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": "Configure a tile by selecting fields for title, description, image, and optional extra fields .\n Note: Configuring one tile will apply the setup automatically to all tiles, ensuring a consistent look across the display."
+                },
+                {
+                    "ScreenLayout": "OneToMany",
+                    "Date": null,
+                    "TeScreenId": 10,
+                    "ScreenDescription": "Create forms and tables to manage relationships between different pieces of information from selected APIs.",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_many/product_index.js",
+                    "ScreenName": "product_oneToMany",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductMany.png",
+                    "ScreenURL": "/product_many",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": "Build tables to display related information clearly.\nCreate forms to collect and organize data for specific APIs.\nEasily connect and manage different types of relationships.\nUser-friendly interface for navigating and organizing linked information."
+                },
+                {
+                    "ScreenLayout": "Single Page Table Layout",
+                    "Date": null,
+                    "TeScreenId": 11,
+                    "ScreenDescription": "Manage tables directly on one screen.",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_singlePageTable/productSinglePageTable_index.js",
+                    "ScreenName": "product_singlePageTable",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductSinglePageTable.png",
+                    "ScreenURL": "/product_singlePageTable",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": "Enables inline editing and deletion within the table, eliminating the need to navigate to a separate edit page."
+                },
+                {
+                    "Date": "2024-06-07T06:40:17Z",
+                    "TeScreenId": 16,
+                    "ScreenLayout": "Stepper Form",
+                    "ScreenDescription": null,
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": null,
+                    "ScreenName": "Stepper_form",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/StepperformLayout.png",
+                    "ScreenURL": null,
+                    "Attribute1": "false",
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "Date": "2024-06-07T06:40:17Z",
+                    "TeScreenId": 15,
+                    "ScreenLayout": "Login",
+                    "ScreenDescription": null,
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": null,
+                    "ScreenName": "product_tiles",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/login_via_sms.png",
+                    "ScreenURL": null,
+                    "Attribute1": "false",
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "Date": "2024-06-07T06:40:17Z",
+                    "TeScreenId": 14,
+                    "ScreenLayout": "Shipping",
+                    "ScreenDescription": null,
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": null,
+                    "ScreenName": "product_tiles",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/product_shipping.png",
+                    "ScreenURL": null,
+                    "Attribute1": "false",
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "Date": "2024-06-07T06:40:17Z",
+                    "TeScreenId": 12,
+                    "ScreenLayout": "Survey Form",
+                    "ScreenDescription": null,
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": null,
+                    "ScreenName": "survey_form",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/survey_form.png",
+                    "ScreenURL": null,
+                    "Attribute1": "false",
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "Date": "2024-06-07T06:40:17Z",
+                    "TeScreenId": 13,
+                    "ScreenLayout": "Feedback",
+                    "ScreenDescription": null,
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": null,
+                    "ScreenName": "product_feedback",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/product_feedback.png",
+                    "ScreenURL": null,
+                    "Attribute1": "false",
+                    "Attribute3": null,
+                    "Attribute2": null
+                }
+            ],
+            "MainTechnology": {
+                "Date": null,
+                "FeTechId": 1,
+                "Name": "React",
+                "Icon": "images/img_globe_light_blue_300.svg",
+                "Attribute1": null,
+                "Description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies.",
+                "Attribute3": null,
+                "Attribute2": null,
+                "Version": "16.0.0",
+                "FeTechnologyFeatures": [
+                    "Computed Properties",
+                    "JSX",
+                    "One-way data binding",
+                    "Performance",
+                    "Templates",
+                    "Virtual DOM"
+                ]
+            }
+        },
+        {
+            "@odata.context": "$metadata#cwBackend132.UITemplate(Supported_Capabilities(),AllScreens())",
+            "RepoURL": "$user_home/templates_react_design1",
+            "Date": null,
+            "UITemplateSupported_BETechnology": 2,
+            "UITemplateMainTechnology": 1,
+            "UITemplateRefApp": null,
+            "RepoName": "templates_react_design1",
+            "DevelopedBy": "Replicacia Technologies",
+            "BranchName": null,
+            "TemplateId": 7,
+            "UITemplateTheme": null,
+            "UITemplateIcon": null,
+            "Attribute4": null,
+            "TemplateName": "Gold",
+            "UITemplateGenerator": 10,
+            "WebsiteReference": "http://34.238.241.129:3000/products",
+            "TemplateDescription": "React Design1 Template",
+            "Attribute1": "http://op.code-wizard.in:9055/",
+            "Attribute3": null,
+            "Attribute2": null,
+            "IconUITemp": "images/template/ProductsTable_Design1.svg",
+            "Supported_Capabilities": [
+                {
+                    "CapFeatures": [
+                        "Have multiple isolated environments on a single host",
+                        "Preserves volume data when containers are created"
+                    ],
+                    "Name": "Docker Compose",
+                    "Icon": "images/img_lightbulb.svg",
+                    "Attribute1": "true",
+                    "Description": "Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 6
+                },
+                {
+                    "CapFeatures": [
+                        "Application isolation.",
+                        "Faster and easier configuration."
+                    ],
+                    "Name": "Dockerfile",
+                    "Icon": "images/img_group_bluegray_801.svg",
+                    "Attribute1": "true",
+                    "Description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containersDocker is a set of platform as a service products that use OS-level virtualization",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 7
+                },
+                {
+                    "CapFeatures": [
+                        "Form-based authentication.",
+                        "HTTP BASIC authentication headers.",
+                        "LDAP (Lighweight Directory Access Protocol)"
+                    ],
+                    "Name": "Authentication & Authorization [Spring]",
+                    "Icon": "images/img_close_light_green_700.svg",
+                    "Attribute1": "true",
+                    "Description": "Authentication is the process of identifying a user to provide access to a system. Authorization is the process of giving permission to access the resources",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 3
+                },
+                {
+                    "CapFeatures": [
+                        "Transmits user names and passwords across the network in an unencrypted form",
+                        "help secure user account information transmitted across the Internet or a corporate"
+                    ],
+                    "Name": "Authentication & Authorization [Basic]",
+                    "Icon": "images/img_settings_gray_50.svg",
+                    "Attribute1": null,
+                    "Description": "Basic Authentication is a method for an HTTP user agent (e.g., a web browser) to provide a username and password when making a request",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 5
+                },
+                {
+                    "CapFeatures": [
+                        "Authentication API",
+                        "SSO",
+                        "Universal Login"
+                    ],
+                    "Name": "Authentication & Authorization [Auth0]",
+                    "Icon": "images/img_close_deep_orange_600.svg",
+                    "Attribute1": null,
+                    "Description": "Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 4
+                },
+                {
+                    "CapFeatures": [
+                        "Redis Cluster",
+                        "Redis Sentinal",
+                        "Redis cache sessions",
+                        "Redis data typesRedis data types"
+                    ],
+                    "Name": "Redis",
+                    "Icon": "images/img_location_red_903.svg",
+                    "Attribute1": null,
+                    "Description": "Redis is an open-source in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 8
+                },
+                {
+                    "CapFeatures": [
+                        "Built-in security. ...",
+                        "Cloud-native architecture. Enables the elasticity to grow or shrink as needed.",
+                        "Native client libraries. ...",
+                        "Native memory storage. ..."
+                    ],
+                    "Name": "Hazelcast",
+                    "Icon": "images/img_settings_cyan_a400.svg",
+                    "Attribute1": null,
+                    "Description": "The RAM of all cluster members is combined into a single in-memory data store to provide fast access to data.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 9
+                },
+                {
+                    "CapFeatures": [
+                        "Authorization Code.",
+                        "Implicit Grant."
+                    ],
+                    "Name": "Authentication & Authorization [OAuth]",
+                    "Icon": "images/img_location_black_900.svg",
+                    "Attribute1": null,
+                    "Description": "The resource owner authenticates and authorizes the resource access request from the application, and the authorize endpoint returns an authorization grant to the client",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 2
+                },
+                {
+                    "CapFeatures": [
+                        "Preventing unauthorized access to infrastructure",
+                        "Storing user details and credentials.",
+                        "User Groups"
+                    ],
+                    "Name": "User Management",
+                    "Icon": "images/img_group52988.svg",
+                    "Attribute1": null,
+                    "Description": "User management is a system to handle activities related to individuals' access to devices, software, and services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 1
+                },
+                {
+                    "CapFeatures": [
+                        "Credit Card",
+                        "Debit Card",
+                        "Internet Banking",
+                        "UPI"
+                    ],
+                    "Name": "Razorpay",
+                    "Icon": "images/img_cursor.svg",
+                    "Attribute1": null,
+                    "Description": "Widely used payment Gateway Solution",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 10
+                }
+            ],
+             "AllScreens": [
+                {
+                    "TeScreenId": 28,
+                    "Date": null,
+                    "ScreenLayout": "Form",
+                    "ScreenDescription": "Create/Edit/View Product using form",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_details/...",
+                    "ScreenName": "product_details",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/detailForm_Gold.png",
+                    "ScreenURL": "/product_detail",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "TeScreenId": 26,
+                    "Date": null,
+                    "ScreenLayout": "List",
+                    "ScreenDescription": "Products List Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_list/product_list.js",
+                    "ScreenName": "product_list",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/ProductListview_Gold.png",
+                    "ScreenURL": "/products/list",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "TeScreenId": 30,
+                    "Date": null,
+                    "ScreenLayout": "OneToMany Layout",
+                    "ScreenDescription": "Products OneToMany Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_many/product_index.js",
+                    "ScreenName": "product_oneToMany",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/ProductMany_Gold.png",
+                    "ScreenURL": "/product_many",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "TeScreenId": 29,
+                    "Date": null,
+                    "ScreenLayout": "Single Page Table Layout",
+                    "ScreenDescription": "Products Single Table Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_singlePageTable/productSinglePageTable_index.js",
+                    "ScreenName": "product_singlePageTable",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/ProductSinglePageTable_Gold.png",
+                    "ScreenURL": "/product_singlePageTable",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "TeScreenId": 25,
+                    "Date": null,
+                    "ScreenLayout": "Table",
+                    "ScreenDescription": "Products Table Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_table/product_index.js",
+                    "ScreenName": "product_table",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/ProductTable_Gold.png",
+                    "ScreenURL": "/products",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "TeScreenId": 27,
+                    "Date": null,
+                    "ScreenLayout": "Tiles",
+                    "ScreenDescription": "Products Tiles Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_tiles/product_tiles.js",
+                    "ScreenName": "product_tiles",
+                    "TemplateScreenScreenshotBig": null,
+                    "TemplateScreenScreenshotSmall": null,
+                    "IconTempScreen": "images/template/ProductTilesView_Gold.png",
+                    "ScreenURL": "/products/tiles",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                }
+            ],
+             "MainTechnology": {
+                "Date": null,
+                "FeTechId": 7,
+                "Name": "React Gold",
+                "Attribute1": null,
+                "Icon": "images/img_globe_light_blue_300.svg",
+                "Description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies.",
+                "Attribute3": null,
+                "Attribute2": null,
+                "Version": "16.0.0",
+                "FeTechnologyFeatures": [
+                    "Computed Properties",
+                    "JSX",
+                    "One-way data binding",
+                    "Performance",
+                    "Templates",
+                    "Virtual DOM"
+                ]
+            }
+        }
+    ]
+}

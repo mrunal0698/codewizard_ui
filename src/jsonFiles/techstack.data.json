@@ -1,0 +1,184 @@
+{
+    "FETectstack_list" : [
+          {
+              "FeTechId": 1,
+              "Name": "React",
+              "Icon": "images/img_globe_light_blue_300.svg",
+              "Description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies.",
+              "Version": "16.0.0",
+              "FeTechnologyFeatures": [
+                  "Computed Properties",
+                  "JSX",
+                  "One-way data binding",
+                  "Performance",
+                  "Templates",
+                  "Virtual DOM"
+              ],
+              "Attribute1": "true"
+          },
+          {
+              "FeTechId": 2,
+              "Name": "OpenUI5",
+              "Icon": "images/img_group.png",
+              "Description": "OpenUI5 is a JavaScript application framework designed to build cross-platform, responsive, enterprise-ready applications",
+              "Version": "1.115.0",
+              "FeTechnologyFeatures": [
+                  "cross platform",
+                  "enterprise ready apps",
+                  "responsive"
+              ]
+          },
+          {
+              "FeTechId": 3,
+              "Name": "HTML5",
+              "Icon": "images/img_arrowdown_deep_orange_701.svg",
+              "Description": "HTML5 includes detailed processing models to encourage more interoperable implementations;it extends,improves & rationalizes the markup available for documents, introduces markup and application programming interfaces (APIs) for complex web apps.",
+              "Version": "html5",
+              "FeTechnologyFeatures": [
+                  "Audio and Video Support",
+                  "Canvas Elements",
+                  "Drag and Drop",
+                  "Geolocation API",
+                  "Local Storage",
+                  "Responsive Images",
+                  "Semantic-Elements",
+                  "Web Workers"
+              ]
+          },
+          {
+              "FeTechId": 4,
+              "Name": "Angular",
+              "Icon": "images/img_arrowup.svg",
+              "Description": "Angular is a TypeScript-based, free and open-source single-page web application framework led by the Angular Team at Google and by a community of individuals and corporations.",
+              "Version": "16.0.0",
+              "FeTechnologyFeatures": [
+                  "Cross-Platform",
+                  "Efficient Two-Way Data Binding",
+                  "High Speed & Optimum Performance",
+                  "Less Code Framework",
+                  "MVC Architecture"
+              ]
+          },
+          {
+              "FeTechId": 5,
+              "Name": "Flutter",
+              "Icon": "images/img_google.svg",
+              "Description": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications from a single codebase for any web browser, Fuchsia, Android, iOS, Linux, macOS, and Windows.",
+              "Version": "16.0.0",
+              "FeTechnologyFeatures": [
+                  "A Wide Variety of Rich Widgets",
+                  "Fast Development due to “Hot Reload” feature",
+                  "Flutter is a Cross-platform Development Framework",
+                  "Highly Customizable UI Design",
+                  "Publicly Accessible",
+                  "Same UI and Business Logic in All Platforms"
+              ]
+          },
+          {
+              "FeTechId": 6,
+              "Name": "Vue JS",
+              "Icon": "images/img_arrowdown_teal_400.svg",
+              "Description": "Vue.js is an open-source model–view–viewmodel front end JavaScript library for building user interfaces and single-page applications.",
+              "Version": "V3.3.4",
+              "FeTechnologyFeatures": [
+                  "Animation/Transition",
+                  "Computed Properties",
+                  "Data Binding",
+                  "Event Handling",
+                  "Templates",
+                  "Virtual DOM"
+              ]
+          }
+      ],  
+    "BETeckstack_list" : [
+            {
+                "BeTechnologyFeatures": [
+                    "CRUD Operations",
+                    "File Data Type",
+                    "Filter by any column name",
+                    "Functions, Actions, Inheritance of Entities",
+                    "Navigation of Associated Objects One-To-One & Collection",
+                    "Pagination, Sorting, Grouping",
+                    "Primitive Data Types, Complex Data Type, Enums, Collection Data Types",
+                    "Query nested objects - internally generated join queries"
+                ],
+                "Icon": "images/img_springioicon1.svg",
+                "BeTechId": 2,
+                "Description": "Spring, powered with OData V4 & Olingo JPAProcessor",
+                "TechName": "Spring OData",
+                "Version": "V4",
+                "Attribute1": "true"
+            },
+            {
+              "BeTechnologyFeatures": [
+                  "Admin features,",
+                  "Application events and listeners,",
+                  "Externalized Configuration,",
+                  "Properties Files,",
+                  "Type-safe Configuration.",
+                  "YAML Support"
+              ],
+              "Icon": "images/img_springioicon1.svg",
+              "BeTechId": 1,
+              "Description": "Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier. The framework's core features can be used by any Java application",
+              "TechName": "Spring Boot",
+              "Version": "2.6.2"
+          },
+          {
+              "BeTechnologyFeatures": [
+                  "Easy-to-code",
+                  "Easy-to-debug",
+                  "Easy-to-read",
+                  "Free&Open Source",
+                  "GUI support programming"
+              ],
+              "Icon": "images/img_pythonicon1.png",
+              "BeTechId": 5,
+              "Description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+              "TechName": "Python",
+              "Version": "3.10.12"
+          },
+          {
+              "BeTechnologyFeatures": [
+                  "Asynchronous And Non-Blockinge",
+                  "Cross-Platform Compatibility",
+                  "Scalable",
+                  "Single Thread Event Driven Loop",
+                  "Written in JavaScript"
+              ],
+              "Icon": "images/img_volume.svg",
+              "BeTechId": 6,
+              "Description": "Node.js is a cross-platform,open-source server environment that can run on Windows,Linux,Unix,macOS.Node.js is a back-end JavaScript runtime environment runs on the V8 JavaScript enginer.",
+              "TechName": "Node Js",
+              "Version": "18.17.1"
+          },
+          {
+              "BeTechnologyFeatures": [
+                  "Consensus",
+                  "Decentralized",
+                  "Distributed",
+                  "Immutable",
+                  "Secure",
+                  "Unanimous"
+              ],
+              "Icon": "images/img_settings_gray_50.svg",
+              "BeTechId": 7,
+              "Description": "A blockchain is a decentralized,distributed & public digital ledger i.e used to record transactions so that the record can't be altered retroactively w/o the alteration of all subsequent blocks and the consensus of the network.",
+              "TechName": "Blockchain",
+              "Version": "18.17.1"
+          },
+          {
+              "BeTechnologyFeatures": [
+                  "Inexpensive",
+                  "Portable",
+                  "Server&Protocol Independent",
+                  "Simple&Easy"
+              ],
+              "Icon": "images/img_fire.svg",
+              "BeTechId": 8,
+              "Description": "A servlet is a Java programming language class that is used to extend the capabilities of servers that host applications accessed by means of a request-response programming model.",
+              "TechName": "Servlet",
+              "Version": "4.0"
+          }
+      ]
+  }

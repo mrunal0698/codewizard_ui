@@ -1,0 +1,488 @@
+{
+    "FETemplate_list": [
+        {
+            "@odata.context": "$metadata#cwBackend132.UITemplate(Supported_Capabilities(),AllScreens(),MainTechnology())",
+            "RepoURL": "$user_home/react_templates_emarald",
+            "Date": null,
+            "UITemplateSupported_BETechnology": 2,
+            "UITemplateMainTechnology": 1,
+            "UITemplateRefApp": null,
+            "RepoName": "react_templates_emarald",
+            "DevelopedBy": "Replicacia Technologies",
+            "BranchName": null,
+            "TemplateId": 1,
+            "UITemplateTheme": 1,
+            "UITemplateIcon": null,
+            "TemplateName": "Emarald",
+            "Attribute4": null,
+            "WebsiteReference": "http://34.238.241.129:3000/products",
+            "UITemplateGenerator": 2,
+            "TemplateDescription": "React Starter Template",
+            "Attribute1": "https://react-emrld-cfg.code-wizard.in/",
+            "Attribute3": null,
+            "Attribute2": null,
+            "IconUITemp": "images/template/diamond.png",
+            "Supported_Capabilities": [
+                {
+                    "CapFeatures": [
+                        "Authentication API",
+                        "SSO",
+                        "Universal Login"
+                    ],
+                    "Name": "Authentication & Authorization [Auth0]",
+                    "Icon": "images/img_close_deep_orange_600.svg",
+                    "Attribute1": null,
+                    "Description": "Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 4
+                },
+                {
+                    "CapFeatures": [
+                        "Transmits user names and passwords across the network in an unencrypted form",
+                        "help secure user account information transmitted across the Internet or a corporate"
+                    ],
+                    "Name": "Authentication & Authorization [Basic]",
+                    "Icon": "images/img_settings_gray_50.svg",
+                    "Attribute1": null,
+                    "Description": "Basic Authentication is a method for an HTTP user agent (e.g., a web browser) to provide a username and password when making a request",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 5
+                },
+                {
+                    "CapFeatures": [
+                        "Authorization Code.",
+                        "Implicit Grant."
+                    ],
+                    "Name": "Authentication & Authorization [OAuth]",
+                    "Icon": "images/img_location_black_900.svg",
+                    "Attribute1": null,
+                    "Description": "The resource owner authenticates and authorizes the resource access request from the application, and the authorize endpoint returns an authorization grant to the client",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 2
+                },
+                {
+                    "CapFeatures": [
+                        "Form-based authentication.",
+                        "HTTP BASIC authentication headers.",
+                        "LDAP (Lighweight Directory Access Protocol)"
+                    ],
+                    "Name": "Authentication & Authorization [Spring]",
+                    "Icon": "images/img_close_light_green_700.svg",
+                    "Attribute1": null,
+                    "Description": "Authentication is the process of identifying a user to provide access to a system. Authorization is the process of giving permission to access the resources",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 3
+                },
+                {
+                    "CapFeatures": [
+                        "Have multiple isolated environments on a single host",
+                        "Preserves volume data when containers are created"
+                    ],
+                    "Name": "Docker Compose",
+                    "Icon": "images/img_lightbulb.svg",
+                    "Attribute1": "true",
+                    "Description": "Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 6
+                },
+                {
+                    "CapFeatures": [
+                        "Application isolation.",
+                        "Faster and easier configuration."
+                    ],
+                    "Name": "Dockerfile",
+                    "Icon": "images/img_group_bluegray_801.svg",
+                    "Attribute1": "true",
+                    "Description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containersDocker is a set of platform as a service products that use OS-level virtualization",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 7
+                },
+                {
+                    "CapFeatures": [
+                        "Built-in security. ...",
+                        "Cloud-native architecture. Enables the elasticity to grow or shrink as needed.",
+                        "Native client libraries. ...",
+                        "Native memory storage. ..."
+                    ],
+                    "Name": "Hazelcast",
+                    "Icon": "images/img_settings_cyan_a400.svg",
+                    "Attribute1": null,
+                    "Description": "The RAM of all cluster members is combined into a single in-memory data store to provide fast access to data.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 9
+                },
+                {
+                    "CapFeatures": [
+                        "Credit Card",
+                        "Debit Card",
+                        "Internet Banking",
+                        "UPI"
+                    ],
+                    "Name": "Razorpay",
+                    "Icon": "images/img_cursor.svg",
+                    "Attribute1": null,
+                    "Description": "Widely used payment Gateway Solution",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 10
+                },
+                {
+                    "CapFeatures": [
+                        "Redis Cluster",
+                        "Redis Sentinal",
+                        "Redis cache sessions",
+                        "Redis data typesRedis data types"
+                    ],
+                    "Name": "Redis",
+                    "Icon": "images/img_location_red_903.svg",
+                    "Attribute1": null,
+                    "Description": "Redis is an open-source in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 8
+                },
+                {
+                    "CapFeatures": [
+                        "Preventing unauthorized access to infrastructure",
+                        "Storing user details and credentials.",
+                        "User Groups"
+                    ],
+                    "Name": "User Management",
+                    "Icon": "images/img_group52988.svg",
+                    "Attribute1": null,
+                    "Description": "User management is a system to handle activities related to individuals' access to devices, software, and services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 1
+                }
+            ],
+            "AllScreens": [
+                {
+                    "ScreenLayout": "Form Layout",
+                    "Date": null,
+                    "TeScreenId": 1,
+                    "ScreenDescription": "Create/Edit/View Product using form",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/views/product/product_view.js",
+                    "ScreenName": "product_details",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/screenshots/Create_New_Product.png",
+                    "ScreenURL": "/product_detail",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "ScreenLayout": "Table",
+                    "Date": null,
+                    "TeScreenId": 2,
+                    "ScreenDescription": "Products Table Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/views/product/product_index.js",
+                    "ScreenName": "product_table",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductsTable.svg",
+                    "ScreenURL": "/products",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                }
+            ],
+            "MainTechnology": {
+                "Date": null,
+                "FeTechId": 1,
+                "Name": "React",
+                "Icon": "images/img_globe_light_blue_300.svg",
+                "Attribute1": null,
+                "Description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies.",
+                "Attribute3": null,
+                "Attribute2": null,
+                "Version": "16.0.0",
+                "FeTechnologyFeatures": [
+                    "Computed Properties",
+                    "JSX",
+                    "One-way data binding",
+                    "Performance",
+                    "Templates",
+                    "Virtual DOM"
+                ]
+            }
+        },
+        {
+            "@odata.context": "$metadata#cwBackend132.UITemplate(Supported_Capabilities(),AllScreens(),MainTechnology())",
+            "RepoURL": "$user_home/react_templates_ruby",
+            "Date": null,
+            "UITemplateSupported_BETechnology": 2,
+            "UITemplateMainTechnology": 1,
+            "UITemplateRefApp": null,
+            "RepoName": "templates_react_ruby",
+            "DevelopedBy": "Replicacia Technologies",
+            "BranchName": null,
+            "TemplateId": 2,
+            "UITemplateTheme": null,
+            "UITemplateIcon": null,
+            "TemplateName": "Ruby",
+            "Attribute4": null,
+            "WebsiteReference": "http://34.238.241.129:3000/products",
+            "UITemplateGenerator": 3,
+            "TemplateDescription": "React Ruby Template",
+            "Attribute1": "http://op.code-wizard.in:9055/",
+            "Attribute3": null,
+            "Attribute2": null,
+            "IconUITemp": "images/template/ProductsTable.svg",
+            "Supported_Capabilities": [
+                {
+                    "CapFeatures": [
+                        "Redis Cluster",
+                        "Redis Sentinal",
+                        "Redis cache sessions",
+                        "Redis data typesRedis data types"
+                    ],
+                    "Name": "Redis",
+                    "Icon": "images/img_location_red_903.svg",
+                    "Attribute1": null,
+                    "Description": "Redis is an open-source in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 8
+                },
+                {
+                    "CapFeatures": [
+                        "Built-in security. ...",
+                        "Cloud-native architecture. Enables the elasticity to grow or shrink as needed.",
+                        "Native client libraries. ...",
+                        "Native memory storage. ..."
+                    ],
+                    "Name": "Hazelcast",
+                    "Icon": "images/img_settings_cyan_a400.svg",
+                    "Attribute1": null,
+                    "Description": "The RAM of all cluster members is combined into a single in-memory data store to provide fast access to data.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 9
+                },
+                {
+                    "CapFeatures": [
+                        "Credit Card",
+                        "Debit Card",
+                        "Internet Banking",
+                        "UPI"
+                    ],
+                    "Name": "Razorpay",
+                    "Icon": "images/img_cursor.svg",
+                    "Attribute1": null,
+                    "Description": "Widely used payment Gateway Solution",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 10
+                },
+                {
+                    "CapFeatures": [
+                        "Transmits user names and passwords across the network in an unencrypted form",
+                        "help secure user account information transmitted across the Internet or a corporate"
+                    ],
+                    "Name": "Authentication & Authorization [Basic]",
+                    "Icon": "images/img_settings_gray_50.svg",
+                    "Attribute1": null,
+                    "Description": "Basic Authentication is a method for an HTTP user agent (e.g., a web browser) to provide a username and password when making a request",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 20
+                },
+                {
+                    "CapFeatures": [
+                        "Preventing unauthorized access to infrastructure",
+                        "Storing user details and credentials.",
+                        "User Groups"
+                    ],
+                    "Name": "User Management",
+                    "Icon": "images/img_group52988.svg",
+                    "Attribute1": null,
+                    "Description": "User management is a system to handle activities related to individuals' access to devices, software, and services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 21
+                },
+                {
+                    "CapFeatures": [
+                        "Authorization Code.",
+                        "Implicit Grant."
+                    ],
+                    "Name": "Authentication & Authorization [OAuth]",
+                    "Icon": "images/img_location_black_900.svg",
+                    "Attribute1": null,
+                    "Description": "The resource owner authenticates and authorizes the resource access request from the application, and the authorize endpoint returns an authorization grant to the client",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 22
+                },
+                {
+                    "CapFeatures": [
+                        "Form-based authentication.",
+                        "HTTP BASIC authentication headers.",
+                        "LDAP (Lighweight Directory Access Protocol)"
+                    ],
+                    "Name": "Authentication & Authorization [Spring]",
+                    "Icon": "images/img_close_light_green_700.svg",
+                    "Attribute1": null,
+                    "Description": "Authentication is the process of identifying a user to provide access to a system. Authorization is the process of giving permission to access the resources",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 23
+                },
+                {
+                    "CapFeatures": [
+                        "Authentication API",
+                        "SSO",
+                        "Universal Login"
+                    ],
+                    "Name": "Authentication & Authorization [Auth0]",
+                    "Icon": "images/img_close_deep_orange_600.svg",
+                    "Attribute1": null,
+                    "Description": "Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 24
+                },
+                {
+                    "CapFeatures": [
+                        "Transmits user names and passwords across the network in an unencrypted form",
+                        "help secure user account information transmitted across the Internet or a corporate"
+                    ],
+                    "Name": "Authentication & Authorization [Basic]",
+                    "Icon": "images/img_settings_gray_50.svg",
+                    "Attribute1": null,
+                    "Description": "Basic Authentication is a method for an HTTP user agent (e.g., a web browser) to provide a username and password when making a request",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 25
+                },
+                {
+                    "CapFeatures": [
+                        "Redis Cluster",
+                        "Redis Sentinal",
+                        "Redis cache sessions",
+                        "Redis data typesRedis data types"
+                    ],
+                    "Name": "Redis",
+                    "Icon": "images/img_location_red_903.svg",
+                    "Attribute1": null,
+                    "Description": "Redis is an open-source in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 26
+                }
+            ],
+            "AllScreens": [
+                {
+                    "ScreenLayout": "Form Layout",
+                    "Date": null,
+                    "TeScreenId": 4,
+                    "ScreenDescription": "Create/Edit/View Product using form",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_details/...",
+                    "ScreenName": "product_details",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/detailForm.png",
+                    "ScreenURL": "/product_detail",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "ScreenLayout": "Information Form Layout",
+                    "Date": null,
+                    "TeScreenId": 7,
+                    "ScreenDescription": "Information Form Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_information_form/product_information_form.js",
+                    "ScreenName": "product_information_form",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/InfoForm.png",
+                    "ScreenURL": "/infoform",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "ScreenLayout": "List",
+                    "Date": null,
+                    "TeScreenId": 5,
+                    "ScreenDescription": "Products List Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_list/product_list.js",
+                    "ScreenName": "product_list",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductListview.png",
+                    "ScreenURL": "/products/list",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "ScreenLayout": "Table Layout",
+                    "Date": null,
+                    "TeScreenId": 3,
+                    "ScreenDescription": "Products Table Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_table/product_index.js",
+                    "ScreenName": "product_table",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductTable.png",
+                    "ScreenURL": "/products",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                },
+                {
+                    "ScreenLayout": "Tiles",
+                    "Date": null,
+                    "TeScreenId": 6,
+                    "ScreenDescription": "Products Tiles Page",
+                    "Documentation": "includes various options",
+                    "ScreenFilePath": "/screens/product_tiles/product_tiles.js",
+                    "ScreenName": "product_tiles",
+                    "TemplateScreenScreenshotSmall": null,
+                    "TemplateScreenScreenshotBig": null,
+                    "IconTempScreen": "images/template/ProductTilesView.png",
+                    "ScreenURL": "/products/tiles",
+                    "Attribute1": null,
+                    "Attribute3": null,
+                    "Attribute2": null
+                }
+            ],
+            "MainTechnology": {
+                "Date": null,
+                "FeTechId": 1,
+                "Name": "React",
+                "Icon": "images/img_globe_light_blue_300.svg",
+                "Attribute1": null,
+                "Description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies.",
+                "Attribute3": null,
+                "Attribute2": null,
+                "Version": "16.0.0",
+                "FeTechnologyFeatures": [
+                    "Computed Properties",
+                    "JSX",
+                    "One-way data binding",
+                    "Performance",
+                    "Templates",
+                    "Virtual DOM"
+                ]
+            }
+        }
+    ]
+}

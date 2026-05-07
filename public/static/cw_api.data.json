@@ -1,0 +1,60 @@
+{
+    "value" : [
+        {
+            "ProjectId": 1,
+            "BackendApp": {
+                "ModelId": 149,
+                "ModelFileFile": 208
+            },
+            "Version": "V5",
+            "Description": "Persona - I own many pet care centers across the country – owner of pet care centers.",
+            "ProjectName": "PetCare Starter",
+            "State": "running",
+            "LiveURL": "http://122.166.66.145:9008/petcareBe/"
+        },
+        {
+            "ProjectId": 2,
+            "BackendApp": {
+                "ModelId": 102
+            },
+            "Version": "V1",
+            "Description": "Manage and update employee profiles efficiently.",
+            "ProjectName": "Employee Profile Management System",
+            "State": "running",
+            "LiveURL": "http://122.166.66.145:9007/empBe/"
+        },
+        {
+            "ProjectId": 3,
+            "BackendApp": {
+                "ModelId": 100
+            },
+            "Version": "V1",
+            "Description": "Monitor and receive alerts for low restaurant inventory.",
+            "ProjectName": "Restuarant Inventory Alert System",
+            "State": "running",
+            "LiveURL": "http://122.166.66.145:9009/restrauntBe/"
+        },
+        {
+            "ProjectId": 4,
+            "BackendApp": {
+                "ModelId": 101
+            },
+            "Version": "V1",
+            "Description": "Rent and manage vehicles seamlessly for personal or business use.",
+            "ProjectName": "Vehicle Rental",
+            "State": "running",
+            "LiveURL": "http://122.166.66.145:9010/vehiclebe/"
+        },
+        {
+            "ProjectId": 5,
+            "BackendApp": {
+                "ModelId": 94
+            },
+            "Version": "V1",
+            "Description": "Enroll and manage college courses easily and simplify the registration process",
+            "ProjectName": "College Course Enrollment System",
+            "State": "running",
+            "LiveURL": "http://122.166.66.145:9006/collegebe/"
+        }
+    ]
+}

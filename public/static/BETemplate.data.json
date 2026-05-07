@@ -1,0 +1,204 @@
+{
+    "value" :  [
+        {
+            "@odata.context": "$metadata#cwBackend132.BackendTemplate(Supported_Capabilities(),MainTechnology(),Supported_Database())",
+            "RepoURL": "$user_home/odata_v4_spring_templates_emarald",
+            "Date": null,
+            "RepoName": "odata_v4_spring_templates_emarald",
+            "BranchName": "main",
+            "TemplateId": 4,
+            "TemplatePath": "Not sure what it is!",
+            "BackendTemplateGenerator": 1,
+            "BackendTemplateMainTechnology": 2,
+            "TemplateName": "odata_v4_spring_templates_emarald",
+            "BackendTemplateSupported_Database": 2,
+            "TemplateDescription": "Spring is spiced-up with OData. One controller for all. Template with OData V4, Olingo and JPA Processor. Check the postman for sending sample API requests.",
+            "Attribute1": null,
+            "Attribute3": null,
+            "Attribute2": null,
+            "BackendTemplateRefApp": 1,
+            "GitHubURL": "https://github.com/reptech-platform/odata_v4_spring_templates_emarald.git",
+            "Supported_Capabilities": [
+                {
+                    "CapFeatures": [
+                        "Have multiple isolated environments on a single host",
+                        "Preserves volume data when containers are created"
+                    ],
+                    "Name": "Docker Compose",
+                    "Icon": "images/img_lightbulb.svg",
+                    "Attribute1": "true",
+                    "Description": "Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 6
+                },
+                {
+                    "CapFeatures": [
+                        "Application isolation.",
+                        "Faster and easier configuration."
+                    ],
+                    "Name": "Dockerfile",
+                    "Icon": "images/img_group_bluegray_801.svg",
+                    "Attribute1": "true",
+                    "Description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containersDocker is a set of platform as a service products that use OS-level virtualization",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 7
+                },
+                {
+                    "CapFeatures": [
+                        "Authentication API",
+                        "SSO",
+                        "Universal Login"
+                    ],
+                    "Name": "Authentication & Authorization [Auth0]",
+                    "Icon": "images/img_close_deep_orange_600.svg",
+                    "Attribute1": null,
+                    "Description": "Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 4
+                },
+                {
+                    "CapFeatures": [
+                        "Transmits user names and passwords across the network in an unencrypted form",
+                        "help secure user account information transmitted across the Internet or a corporate"
+                    ],
+                    "Name": "Authentication & Authorization [Basic]",
+                    "Icon": "images/img_settings_gray_50.svg",
+                    "Attribute1": null,
+                    "Description": "Basic Authentication is a method for an HTTP user agent (e.g., a web browser) to provide a username and password when making a request",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 5
+                },
+                {
+                    "CapFeatures": [
+                        "Authorization Code.",
+                        "Implicit Grant."
+                    ],
+                    "Name": "Authentication & Authorization [OAuth]",
+                    "Icon": "images/img_location_black_900.svg",
+                    "Attribute1": null,
+                    "Description": "The resource owner authenticates and authorizes the resource access request from the application, and the authorize endpoint returns an authorization grant to the client",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 2
+                },
+                {
+                    "CapFeatures": [
+                        "Form-based authentication.",
+                        "HTTP BASIC authentication headers.",
+                        "LDAP (Lighweight Directory Access Protocol)"
+                    ],
+                    "Name": "Authentication & Authorization [Spring]",
+                    "Icon": "images/img_close_light_green_700.svg",
+                    "Attribute1": "true",
+                    "Description": "Authentication is the process of identifying a user to provide access to a system. Authorization is the process of giving permission to access the resources",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 3
+                },
+                {
+                    "CapFeatures": [
+                        "Built-in security. ...",
+                        "Cloud-native architecture. Enables the elasticity to grow or shrink as needed.",
+                        "Native client libraries. ...",
+                        "Native memory storage. ..."
+                    ],
+                    "Name": "Hazelcast",
+                    "Icon": "images/img_settings_cyan_a400.svg",
+                    "Attribute1": null,
+                    "Description": "The RAM of all cluster members is combined into a single in-memory data store to provide fast access to data.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 9
+                },
+                {
+                    "CapFeatures": [
+                        "Credit Card",
+                        "Debit Card",
+                        "Internet Banking",
+                        "UPI"
+                    ],
+                    "Name": "Razorpay",
+                    "Icon": "images/img_cursor.svg",
+                    "Attribute1": null,
+                    "Description": "Widely used payment Gateway Solution",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 10
+                },
+                {
+                    "CapFeatures": [
+                        "Redis Cluster",
+                        "Redis Sentinal",
+                        "Redis cache sessions",
+                        "Redis data typesRedis data types"
+                    ],
+                    "Name": "Redis",
+                    "Icon": "images/img_location_red_903.svg",
+                    "Attribute1": null,
+                    "Description": "Redis is an open-source in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 8
+                },
+                {
+                    "CapFeatures": [
+                        "Preventing unauthorized access to infrastructure",
+                        "Storing user details and credentials.",
+                        "User Groups"
+                    ],
+                    "Name": "User Management",
+                    "Icon": "images/img_group52988.svg",
+                    "Attribute1": null,
+                    "Description": "User management is a system to handle activities related to individuals' access to devices, software, and services.",
+                    "Attribute3": null,
+                    "Attribute2": null,
+                    "CapId": 1
+                }
+            ],
+            "MainTechnology": {
+                "Date": null,
+                "Icon": "images/img_springioicon1.svg",
+                "Description": "Spring, powered with OData V4 & Olingo JPAProcessor",
+                "BeTechId": 2,
+                "TechName": "Spring OData",
+                "Version": "V4",
+                "BeTechnologyFeatures": [
+                    "CRUD Operations",
+                    "File Data Type",
+                    "Filter by any column name",
+                    "Functions, Actions, Inheritance of Entities",
+                    "Navigation of Associated Objects One-To-One & Collection",
+                    "Pagination, Sorting, Grouping",
+                    "Primitive Data Types, Complex Data Type, Enums, Collection Data Types",
+                    "Query nested objects - internally generated join queries"
+                ],
+                "Attribute5": null,
+                "Attribute4": null,
+                "Attribute7": null,
+                "Attribute6": null,
+                "Attribute1": null,
+                "Attribute3": null,
+                "Attribute2": null
+            },
+            "Supported_Database": {
+                "Date": null,
+                "DbFeatures": [
+                    "Foreign key referential integrity",
+                    "Sophisticated locking mechanismn",
+                    "Table inheritance",
+                    "User-defined types"
+                ],
+                "Dbname": "PostgreSQL",
+                "DbId": 2,
+                "Icon": "images/img_location_black_900_90x90.svg",
+                "Description": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.",
+                "Dbversion": "14.6"
+            }
+        }
+        ]
+      }
+ 

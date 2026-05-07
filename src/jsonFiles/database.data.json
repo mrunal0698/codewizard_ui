@@ -1,0 +1,29 @@
+{
+  "@odata.context": "$metadata#Databases",
+  "value": [
+      {
+          "DbFeatures": [
+              "Database Triggers",
+              "Document Model"
+          ],
+          "Dbname": "MongoDB",
+          "DbId": 1,
+          "Icon": "images/img_location_light_green_601.svg",
+          "Dbversion": "6.0",
+          "Description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas"
+      },
+      {
+          "DbFeatures": [
+              "Foreign key referential integrity",
+              "Sophisticated locking mechanismn",
+              "Table inheritance",
+              "User-defined types"
+          ],
+          "Dbname": "PostgreSQL",
+          "DbId": 2,
+          "Icon": "images/img_location_black_900_90x90.svg",
+          "Dbversion": "14.6",
+          "Description": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance."
+      }
+  ]
+}

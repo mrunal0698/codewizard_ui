@@ -1,0 +1,216 @@
+{
+    "modelFiles": [
+          {
+            "@odata.context": "$metadata#cwBackend132.ModelFile",
+            "Date": "2024-04-06T15:19:35.37Z",
+            "ModelFileVersion": "V2",
+            "ModelId": 149,
+            "ModelFileImage": 209,
+            "ModelType": "StarUML",
+            "UserName": "ReplicaciaUser",
+            "Version": "V2",
+            "ModelFileName": "PetCare_VR_413.mdj",
+            "ModelDescription": "Persona - I own many pet care centers across the country – owner of pet care centers.",
+            "ModelName": "PetCare Starter",
+            "Path": "images/model/petcare.svg",
+            "CreatedBy": "Replicacia",
+            "Attribute1": " Requirement - I want to manage my Pet Care Centers online. The pet care centers provide different services like Pet grooming, Pet boarding, etc. The pet store will have a logo, etc.",
+            "ModelFileIndustry": 9,
+            "ModelFileFile": 208,
+            "Attribute2": null,
+            "IconPath": "images/model/Frame_7.svg"
+        },
+        {
+          "Date": null,
+          "ModelFileVersion": "V1",
+          "ModelId": 102,
+          "ModelType": "StarUML",
+          "ModelFileImage": null,
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "EmployeeProfileManagementSystem.mdj",
+          "ModelDescription": "Persona -  I am the owner of a large company with multiple branches and employees.",
+          "ModelName": "Employee Profile Management System",
+          "Path": "images/model/Emp_ManagementV1.svg",
+          "CreatedBy": "Replicacia",
+          "Attribute1": "Requirement - I seek an online platform to efficiently manage employee profiles within my organization. Each branch offers a range of services and employs individuals with diverse roles and responsibilities. The system encompasses entities such as the Organization itself, EmployeeProfiles, and EmployeePersonalInformation. It allows for the creation, editing, and viewing of employee profiles, including details like name, contact information, EmploymentType, OrgBranch, OrgDept and possibly additional custom fields.",
+          "ModelFileIndustry": 21,
+          "ModelFileFile": 159,
+          "Attribute2": null,
+          "IconPath": "images/model/Emp_mgm_icon.svg"
+      },
+      {
+          "Date": null,
+          "ModelFileVersion": "V1",
+          "ModelId": 100,
+          "ModelType": "StarUML",
+          "ModelFileImage": null,
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "RestuarantInventory_Alert.mdj",
+          "ModelDescription": "Persona - I am the owner of a chain of restaurants operating across multiple locations.",
+          "ModelName": "Restuarant Inventory Alert System",
+          "Path": "images/model/Restuarant_Inventory.svg",
+          "CreatedBy": "Replicacia",
+          "Attribute1": "Requirement - I am seeking an online solution to efficiently manage my restaurant inventory and receive timely alerts to maintain the stock levels and operation of supplies. The restaurants offer various services and require a range of operating supplies, including ingredients, Disposables, utensils, and cleaning materials. The system should encompass entities such as the restaurant itself, operating supplies, inventory, order alerts, vendors, and purchase orders. It should allow for easy creation, editing, and viewing of inventory items.",
+          "ModelFileIndustry": 9,
+          "ModelFileFile": 232,
+          "Attribute2": null,
+          "IconPath": "images/template/restaurant.svg"
+      },
+      {
+          "Date": null,
+          "ModelFileVersion": "V1",
+          "ModelId": 101,
+          "ModelType": "StarUML",
+          "ModelFileImage": null,
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "VehicleRental.mdj",
+          "ModelDescription": "Persona - I manage a chain of vehicle rental companies, catering to diverse customer needs and preferences.",
+          "ModelName": "Vehicle Rental",
+          "Path": "images/model/Vehicle_RentalV1.svg",
+          "CreatedBy": "Replicacia",
+          "Attribute1": "Requirement - I aim to streamline the management of my vehicle rental services through an efficient online platform. These services encompass various aspects such as bike rental, return bike inspection, verification, roadside assistance, payment processing, insurance handling, extending bookings, managing bookings, bike return process, and customer management.",
+          "ModelFileIndustry": 9,
+          "ModelFileFile": 158,
+          "Attribute2": null,
+          "IconPath": "images/model/Bike_Rental.svg"
+      },
+      {
+          "Date": null,
+          "ModelFileVersion": "V1",
+          "ModelId": 94,
+          "ModelType": "StarUML",
+          "ModelFileImage": null,
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "CollegeCourse.mdj",
+          "ModelDescription": "Persona - I oversee multiple colleges offering a variety of courses across different departments, catering to students with diverse educational backgrounds and interests.",
+          "ModelName": "College Course Enrollment System",
+          "Path": "images/model/Clg_Course_Enrollment.svg",
+          "CreatedBy": "Replicacia",
+          "Attribute1": "Requirement - I seek to implement an efficient online College Course Enrollment System to manage course enrollment processes seamlessly. This system will encompass various entities including Colleges, Courses, Students, Previous Education, Departments, Subjects, and Lecturers.",
+          "ModelFileIndustry": 7,
+          "ModelFileFile": 160,
+          "Attribute2": null,
+          "IconPath": "images/model/clg_enroll_sys.svg"
+      },
+      {
+        "Date": "2024-10-14T15:19:35.37Z",
+        "ModelFileVersion": "V1",
+        "ModelId": 372,
+        "ModelType": "StarUML",
+        "ModelFileImage": null,
+        "UserName": "ReplicaciaUser",
+        "Version": "V1",
+        "ModelFileName": "fundflow_management.mdj",
+        "ModelDescription": "Persona- I am the founder of a startup that seeks a streamlined platform to manage the fundflow process.",
+        "ModelName": "Fund Flow Management",
+        "Path": "images/model/FundFlow_design.svg",
+        "CreatedBy": "Replicacia",
+        "Attribute1": "Requirement- To develop an online platform that simplifies the management of fundflows for startups across various stages of their growth. The features of this platform can be Fundflow Tracking, Stage Progression, Founder and Investor Profiles. The system encompasses various entities such as Startup, Founder, Investor, Stage, FundingRound and so on.",
+        "ModelFileIndustry": 5,
+        "ModelFileFile": 440,
+        "Attribute2": null,
+        "IconPath": "images/model/Frame_8.svg"
+      }
+    ],
+    "Industries": [
+      {
+        "IndustryName": "HealthCare",
+        "IndustryId": 1,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "Ecommerce",
+        "IndustryId": 2,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "Technology",
+        "IndustryId": 3,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "TransportLogistics",
+        "IndustryId": 4,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "Finance",
+        "IndustryId": 5,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "PetCareServices",
+        "IndustryId": 6,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "Entertainment",
+        "IndustryId": 9,
+        "Icon": "discover"
+      },
+      {
+        "IndustryName": "Energy",
+        "IndustryId": 10,
+        "Icon": "discover"
+      },
+      {
+        "IndustryName": "Agriculture",
+        "IndustryId": 11,
+        "Icon": "discover"
+      },
+      {
+        "IndustryName": "Pharmaceuticals",
+        "IndustryId": 12,
+        "Icon": "discover"
+      },
+      {
+        "IndustryName": "Manufacturing",
+        "IndustryId": 13,
+        "Icon": "discover"
+      },
+      {
+        "IndustryName": "Telecommunication",
+        "IndustryId": 15,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "RealEstate",
+        "IndustryId": 16,
+        "Icon": "discover"
+      },
+      {
+        "IndustryName": "EnvironmentalScience",
+        "IndustryId": 18,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "Automotive",
+        "IndustryId": 19,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "LegalService",
+        "IndustryId": 20,
+        "Icon": "discover"
+      },
+      {
+        "IndustryName": "LegalService",
+        "IndustryId": 21,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      },
+      {
+        "IndustryName": "Education",
+        "IndustryId": 24,
+        "Icon": null
+      },
+      {
+        "IndustryName": "PetCareServices",
+        "IndustryId": 25,
+        "Icon": "images/screenshots/vetPet_care_logo.png"
+      }
+    ]
+}

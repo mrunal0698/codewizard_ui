@@ -1,0 +1,203 @@
+{
+    "model_list": [
+        {
+          "ModelFileVersion": "V1",
+          "ModelId": 54,
+          "ModelType": "StarUML",
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "PetCare.mdj",
+          "ModelDescription": "PetCare",
+          "Path": "images/model/PetCare_VR_412.svg",
+          "ModelName": "PetCare_Starter",
+          "CreatedBy": "Replicacia",
+          "ModelFileIndustry": 9,
+          "ModelFileFile": 110,
+          "IconPath": "images/model/Frame_7.svg"
+        },
+        {
+          "Date": null,
+          "ModelFileVersion": "V1",
+          "ModelType": "StarUML",
+          "ModelFileImage": null,
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "EmployeeProfileManagementSystem.mdj",
+          "ModelDescription": "An employee profile management system is a software application used by organizations to centralize and manage information about their employees.",
+          "ModelName": "Employee Profile Management System",
+          "Path": "images/model/Emp_ManagementV1.svg",
+          "CreatedBy": "Replicacia",
+          "Attribute1": "",
+          "ModelFileIndustry": 21,
+          "ModelFileFile": 159,
+          "Attribute2": null,
+          "IconPath": "images/model/Emp_mgm_icon.svg"
+      },
+      {
+          "Date": null,
+          "ModelFileVersion": "V1",
+          "ModelType": "StarUML",
+          "ModelFileImage": null,
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "RestuarantInventory_Alert.mdj",
+          "ModelDescription": "Restuarant Inventory Alert is a cutting-edge application designed to streamline and optimize restaurant inventory management processes. ",
+          "ModelName": "Restuarant Inventory Alert System",
+          "Path": "images/model/Restuarant_Inventory.svg",
+          "CreatedBy": "Replicacia",
+          "Attribute1": " Whether you operate a small café, a bustling bistro, or a fine dining establishment, this app offers an intuitive and efficient solution to keep track of your inventory with ease.",
+          "ModelFileIndustry": 9,
+          "ModelFileFile": 149,
+          "Attribute2": null,
+          "IconPath": "images/template/restaurant.svg"
+      },
+      {
+          "Date": null,
+          "ModelFileVersion": "V1",
+          "ModelType": "StarUML",
+          "ModelFileImage": null,
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "VehicleRental.mdj",
+          "ModelDescription": "A vehicle rental application serves as a platform for users to rent vehicles for short-term use, such as daily or hourly rentals and offer a seamless and convenient experience for users to find,",
+          "ModelName": "Vehicle Rental",
+          "Path": "images/model/Vehicle_RentalV1.svg",
+          "CreatedBy": "Replicacia",
+          "Attribute1": " book and manage rentals for their transportation needs with below major key features and functionalities.",
+          "ModelFileIndustry": 9,
+          "ModelFileFile": 158,
+          "Attribute2": null,
+          "IconPath": "images/model/Bike_Rental.svg"
+      },
+      {
+          "Date": null,
+          "ModelFileVersion": "V1",
+          "ModelType": "StarUML",
+          "ModelFileImage": null,
+          "UserName": "ReplicaciaUser",
+          "Version": "V1",
+          "ModelFileName": "CollegeCourse.mdj",
+          "ModelDescription": "A college course enrollment app is designed to streamline and simplify the process through which students browse, select, and enroll in their college courses.",
+          "ModelName": "College Course Enrollment System",
+          "Path": "images/model/Clg_Course_Enrollment.svg",
+          "CreatedBy": "Replicacia",
+          "Attribute1": " This app serves as a central hub where all course offerings are listed, and it provides various functionalities to assist both students and academic staff.",
+          "ModelFileIndustry": 7,
+          "ModelFileFile": 160,
+          "Attribute2": null,
+          "IconPath": "images/model/clg_enroll_sys.svg"
+      }
+    ],
+    "Industries": [
+        {
+          "IndustryName": "Constuction",
+          "IndustryId": 1,
+          "Icon": "discover"
+        },
+        {
+          "IndustryName": "HealthCare",
+          "IndustryId": 2,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Ecommerce",
+          "IndustryId": 3,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Technology",
+          "IndustryId": 4,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "TransportLogistics",
+          "IndustryId": 5,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Finance",
+          "IndustryId": 6,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Hospitality",
+          "IndustryId": 9,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Entertainment",
+          "IndustryId": 10,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Energy",
+          "IndustryId": 11,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Agriculture",
+          "IndustryId": 12,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Pharmaceuticals",
+          "IndustryId": 13,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Manufacturing",
+          "IndustryId": 14,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Telecommunication",
+          "IndustryId": 15,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Constuction",
+          "IndustryId": 16,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "RealEstate",
+          "IndustryId": 17,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "EnvironmentalScience",
+          "IndustryId": 18,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Automotive",
+          "IndustryId": 19,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Retail",
+          "IndustryId": 20,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "LegalService",
+          "IndustryId": 21,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+          "IndustryName": "Education",
+          "IndustryId": 24,
+          "Icon": null
+        },
+        {
+          "IndustryName": "PetCareServices",
+          "IndustryId": 25,
+          "Icon": "images/screenshots/vetPet_care_logo.png"
+        },
+        {
+            "IndustryName": "Other",
+            "IndustryId": 26,
+            "Icon": "images/screenshots/vetPet_care_logo.png"
+        }
+    ]
+}

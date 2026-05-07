@@ -1,0 +1,58 @@
+{
+    "MenuItems" : [
+        {
+          "Name": "Home",
+          "Icon": "images/img_home_gray_50.svg",
+          "Path": "/our-home"
+        },
+        {
+          "Name": "Wizard GPT",
+          "Icon": "images/ai_icon.svg",
+          "Path": "/wizard-GPT"
+        },
+        {
+          "Name": "Design Library",
+          "Icon": "images/design_lib.svg",
+          "Path": "/design-library"
+        },
+        {
+          "Name": "UI Templates",
+          "Icon": "images/template_icon.svg",
+          "Path": "/templates"
+        },
+        {
+          "Name": "Pre Built Apps",
+          "Icon": "images/app_lib.svg",
+          "Path": "/pre-built-apps"
+        }
+    ],
+    "comingSoonMenus" : [
+        {
+          "Name": "Plugins",
+          "Icon": "images/solutions_img.svg",
+          "Path": "/plugins"
+        },
+        {
+          "Name": "Arch Blue Prints",
+          "Icon": "images/technical_solutions_img.svg",
+          "Path": "/arch-blue-prints"
+        }
+    ],
+    "SecondaryMenuItems" : [
+        {
+          "Name": "Settings",
+          "Icon": "images/img_settings_gray_300.svg",
+          "Path": "/settings"
+        },
+        {
+          "Name": "Feedback",
+          "Icon": "images/img_question.svg",
+          "Path": "/feedback"
+        },
+        {
+          "Name": "Documentation",
+          "Icon": "images/doc_icon.svg",
+          "URL": "https://replicacia-technologies-pvt-ltd.gitbook.io/code-wizard-documentation"
+        }
+    ]
+}

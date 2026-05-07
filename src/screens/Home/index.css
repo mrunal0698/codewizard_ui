@@ -1,0 +1,76 @@
+.first-card {
+    position: relative;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 190px;
+    width: 360px;
+    cursor: pointer;    
+    border-radius: 8px;
+    background-color:  var(--secondary);
+  }
+.carousel-container {
+  height: 100%;
+}
+.carousel-title {
+  position: absolute;
+  bottom: 14px;
+  left: 0px;
+  border-radius: 0px 50px 50px 0px;
+  background-color: #232323;
+  font-weight: 500;
+  padding: 8px 24px;
+  color: #F8FAFC;
+}
+  .second-card {
+    padding: 16px 24px;
+    width: 360px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border-radius: 8px;
+    height: 190px;
+  }
+  
+.sun-gradient {
+  background-image: url('../../../public/images/sun_gradient.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.water-gradient {
+  background-image: url('../../../public/images/Gradient Card.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.third-card {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    padding: 16px 24px;
+    width: 360px;
+    height: 190px;
+    box-sizing: border-box;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .third-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 8px; 
+    padding: 2px;
+    background: linear-gradient(to bottom left, #016CD9 0%, #F40075 100%);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+  }
+
+  @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+    .blurred-bg {
+      -webkit-backdrop-filter: blur(10px);
+      backdrop-filter: blur(10px);
+      background-color: rgba(255, 255, 255, 0.1);  
+    }
+  }
