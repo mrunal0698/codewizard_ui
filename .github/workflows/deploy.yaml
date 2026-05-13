@@ -33,4 +33,4 @@ jobs:
           aws-region: ap-south-1
 
       - name: Deploy to S3
-        run: aws s3 sync build/ s3://dev.code-wizard.ai --delete
+        run: aws s3 sync build/ s3://platform.code-wizard.ai --delete
